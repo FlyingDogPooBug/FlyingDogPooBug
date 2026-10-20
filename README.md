@@ -6,7 +6,7 @@
 
 직접 만들고, 주행으로 확인하고, 설계 판단의 근거를 남깁니다.
 
-[웹 포트폴리오](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site) · [프로젝트 전체 보기](https://github.com/FlyingDogPooBug/engineering-portfolio) · [한·영 프로필 PDF](https://github.com/FlyingDogPooBug/engineering-portfolio/blob/main/site/assets/yongmin-profile.pdf)
+[웹 포트폴리오](https://yongmin.gardengnat12.chatgpt.site) · [프로젝트 전체 보기](https://github.com/FlyingDogPooBug/engineering-portfolio) · [한·영 프로필 PDF](https://github.com/FlyingDogPooBug/engineering-portfolio/blob/main/site/assets/yongmin-profile.pdf)
 
 ## Selected work
 
